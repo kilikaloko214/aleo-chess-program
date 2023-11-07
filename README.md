@@ -82,3 +82,6 @@ Player 2 Board:
 6. Player1 Whispers the Arbiter the Target Piece
 7. Aribter Compares pieces
 8. Continue until Game Ends
+
+
+My discord - kilikaloko214
